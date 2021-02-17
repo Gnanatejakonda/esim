@@ -1,0 +1,1 @@
+{"C:\\FOSSEE\\eSim\\Examples\\Halfwave_Rectifier": ["analysis", "D.lib", "Halfwave_Rectifier-cache.lib", "Halfwave_Rectifier-rescue.lib", "Halfwave_Rectifier.cir", "Halfwave_Rectifier.cir.out", "Halfwave_Rectifier.pro", "Halfwave_Rectifier.proj", "Halfwave_Rectifier.sch", "Halfwave_Rectifier_Previous_Values.xml"]}
